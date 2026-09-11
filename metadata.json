@@ -1,0 +1,6 @@
+{
+  "name": "Darul Ifta Irshad Us Saileen Karachi",
+  "description": "Darul Ifta Irshad Us Saileen Karachi - authentic Islamic fatwas, guidance, daily posts, scholars, and consultations in Urdu, English, and Arabic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
